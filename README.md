@@ -6,6 +6,11 @@ keeps the data-structures focus of the project: fast prefix search, smart
 ranking, detailed filtering, graph-style book connections, and undo/redo for
 library edits.
 
+## Projeyi Yapanlar
+
+- Ismail Taner Erdogan
+- Nisa Goksen
+
 ## Screenshots
 
 ### Main Search
